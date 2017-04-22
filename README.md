@@ -2,6 +2,8 @@
 
 # React Tutorial
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/willowcheng/react-tutorial.svg)](https://greenkeeper.io/)
+
 This is the React comment box example from [the React tutorial](http://facebook.github.io/react/docs/tutorial.html).
 
 ## To use
